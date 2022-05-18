@@ -31,7 +31,7 @@ In powershell:
 
 ```powershell
 cd nodejs-mock-server
-.\windows\install.sh
-.\windows\start-app.sh
-.\windows\test-requests.sh
+.\windows\install.bat
+.\windows\start-app.bat
+.\windows\test-requests.ps1
 ```
