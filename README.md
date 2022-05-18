@@ -4,8 +4,10 @@ This is a mock web server. It uses nodejs. Main purpose is to use it as a web se
 
 ## Requirements
 
-Download and install nodejs: [](https://nodejs.org/en/download/)
-Git
+Download and install nodejs, Git for Windows:
+
+* [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+* [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
 ## Linux
 
